@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.htmlColor {
+  color: #ff5733;
+}
+.cssColor {
+  color: #2965f1;
+}
+.javaScriptColor {
+  color: #f0db4f;
+}
+.tailwindColor {
+  color: #0eb8d5;
+}
+.mongodbColor {
+  color: #589636;
+}
+.reactColor {
+  color: #00ffff;
+}
+.nodeColor {
+  color: #44883e;
+}
+.nextColor {
+  color: #ffffff;
+}
+.typeColor {
+  color: #3178c6;
+}
+.gitColor{
+    color: #F1502F;
+}
