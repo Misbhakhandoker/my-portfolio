@@ -5,15 +5,15 @@ const About = () => {
         <h1 className="pb-12 text-5xl font-bold text-center text-yellow-500">
           About US
         </h1>
-        <div className="flex flex-col items-center justify-around w-full gap-5 md:flex-row ">
-          <div className="w-[50%]">
+        <div className="flex flex-col items-center justify-center w-full gap-5 md:justify-around md:flex-row ">
+          <div className="md:w-[50%] w-[100%] flex justify-center">
             <img
               className="rounded-lg w-96"
               src="https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/447272361_854204823206949_5181411721104318352_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=idjVGh-uYcMQ7kNvgFxjABs&_nc_ht=scontent.fdac11-1.fna&oh=00_AYDx-wSV852Q7_dAJpHkGfacpxKHrQsFcwB4UJy5wV9PNw&oe=668CCB6F"
               alt=""
             />
           </div>
-          <div className="w-[40%] text-white">
+          <div className="md:w-[40%] w-[100%] text-white">
             <h1><span>Hi ! 👋</span> I am Mijbah.</h1>
             <p>
               As an emerging MERN stack web developer, I am passionate about
