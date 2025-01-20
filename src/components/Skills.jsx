@@ -8,7 +8,7 @@ import { MeteorsDemo } from "./ui/MeteorsDemo";
 const Skills = () => {
   return (
     <> <h1 className="py-12 text-5xl font-bold text-center text-yellow-500">Skills</h1>
-       <div className="flex flex-wrap items-center justify-center w-full h-screen px-5 gap-x-7 ">
+       <div id="skills" className="flex flex-wrap items-center justify-center w-full h-screen px-5 gap-x-7 ">
       <MeteorsDemo title="HTML" color={"htmlColor"} image={<FaHtml5 />} />
       <MeteorsDemo title="CSS" color={"cssColor"} image={<FaCss3Alt />} />
       <MeteorsDemo title="JavaScript" color={"javaScriptColor"} image={<FaCss3Alt />} />

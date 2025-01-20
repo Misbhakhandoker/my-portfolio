@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <>
-      <section className="w-full h-auto px-5 pt-10 md:pt-0">
+      <section id="about" className="w-full h-auto px-5 pt-10 md:pt-0">
         <h1 className="pb-12 text-5xl font-bold text-center text-yellow-500">
           About US
         </h1>
@@ -9,7 +9,7 @@ const About = () => {
           <div className="md:w-[50%] w-[100%] flex justify-center">
             <img
               className="rounded-lg w-96"
-              src="https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/447272361_854204823206949_5181411721104318352_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=idjVGh-uYcMQ7kNvgFxjABs&_nc_ht=scontent.fdac11-1.fna&oh=00_AYDx-wSV852Q7_dAJpHkGfacpxKHrQsFcwB4UJy5wV9PNw&oe=668CCB6F"
+              src="../../public/about_img.jpg"
               alt=""
             />
           </div>

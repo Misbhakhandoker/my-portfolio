@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 
 const App = () => {
   return (
-    <div className="w-full h-screen ">
+    <div className="w-full h-screen">
       <Header />
       <Hero />
       <About />
