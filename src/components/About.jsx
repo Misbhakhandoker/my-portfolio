@@ -9,7 +9,7 @@ const About = () => {
           <div className="md:w-[50%] w-[100%] flex justify-center">
             <img
               className="rounded-lg w-96"
-              src="../../public/about_img.jpg"
+              src="/about_img.jpg"
               alt=""
             />
           </div>
